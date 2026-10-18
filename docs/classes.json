@@ -295,5 +295,32 @@
   "instructor": "Fitness Coach Bolton",
   "room": "Studio",
   "stamp": "20261017T091719Z"
+ },
+ "50388b5ac201682cd0f0@jd-bolton-classes": {
+  "date": "2026-10-24",
+  "time": "08:00",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261018T044945Z"
+ },
+ "f482cc3142524c3793e4@jd-bolton-classes": {
+  "date": "2026-10-24",
+  "time": "08:30",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261018T044945Z"
+ },
+ "a46db19389850127cdf7@jd-bolton-classes": {
+  "date": "2026-10-24",
+  "time": "09:00",
+  "name": "HIIT",
+  "minutes": 45,
+  "instructor": "Vicky",
+  "room": "Studio",
+  "stamp": "20261018T044945Z"
  }
 }
