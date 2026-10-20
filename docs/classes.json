@@ -322,5 +322,68 @@
   "instructor": "Vicky",
   "room": "Studio",
   "stamp": "20261018T044945Z"
+ },
+ "ce1ff99a2a490248efd7@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "06:15",
+  "name": "Spin",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Spin Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "3811334ee4f6598dc3c3@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "06:30",
+  "name": "JD BURN: ATHLETIC",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "5b75b9f4d7ca8435c657@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "09:30",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Nikita Rosser",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "c154ba76426275788972@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "10:20",
+  "name": "Les Mills BODYCOMBAT",
+  "minutes": 45,
+  "instructor": "Nikita Rosser",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "c4cef7afeabce4c4a7ec@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "17:15",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "b736cd2f24b10148e01d@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "18:10",
+  "name": "Circuits",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
+ },
+ "fe59ac95695548ad274b@jd-bolton-classes": {
+  "date": "2026-10-26",
+  "time": "18:55",
+  "name": "JD BURN: STRENGTH",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261020T050306Z"
  }
 }
