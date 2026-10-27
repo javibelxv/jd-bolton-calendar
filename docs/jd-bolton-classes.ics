@@ -970,21 +970,6 @@ CATEGORIES:Gym class
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:15add0256307b9ba053d@jd-bolton-classes
-DTSTAMP:20261024T045009Z
-LAST-MODIFIED:20261024T045009Z
-DTSTART:20261030T070500Z
-DTEND:20261030T075000Z
-SUMMARY:JD BURN: HIIT
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:JD BURN: HIIT (45 min)\nInstructor: Fitness Coach Bolton\nRoom:
-  Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Manch
- ester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:cc57b74cb29c3fef035d@jd-bolton-classes
 DTSTAMP:20261024T045009Z
 LAST-MODIFIED:20261024T045009Z
@@ -1105,16 +1090,16 @@ CATEGORIES:Gym class
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:064fba51fcbb96f44bf7@jd-bolton-classes
-DTSTAMP:20261027T051909Z
-LAST-MODIFIED:20261027T051909Z
+UID:fb7b419ca1d65d4d4a3e@jd-bolton-classes
+DTSTAMP:20261027T222704Z
+LAST-MODIFIED:20261027T222704Z
 DTSTART:20261102T171500Z
 DTEND:20261102T180000Z
-SUMMARY:Les Mills BODYPUMP
+SUMMARY:Tone
 LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Les Mills BODYPUMP (45 min)\nInstructor: Sam Bradley\nRoom: Stu
- dio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Mancheste
- r Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+DESCRIPTION:Tone (45 min)\nInstructor: Sam Bradley\nRoom: Studio\nNo bookin
+ g needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton 
+ BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
 URL:https://www.jdgyms.co.uk/gym/bolton/
 CATEGORIES:Gym class
 TRANSP:TRANSPARENT
