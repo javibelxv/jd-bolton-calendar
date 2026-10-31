@@ -835,5 +835,32 @@
   "instructor": "Rachael Crompton",
   "room": "Studio",
   "stamp": "20261030T060545Z"
+ },
+ "62e5f44e2cb13bd927f6@jd-bolton-classes": {
+  "date": "2026-11-06",
+  "time": "06:15",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261031T055932Z"
+ },
+ "e8c95e4c34f286f8d90e@jd-bolton-classes": {
+  "date": "2026-11-06",
+  "time": "07:05",
+  "name": "JD BURN: HIIT",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261031T055932Z"
+ },
+ "3254fb82f31a1ac9ddbb@jd-bolton-classes": {
+  "date": "2026-11-06",
+  "time": "17:00",
+  "name": "JD BURN: STRENGTH",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261031T055932Z"
  }
 }
