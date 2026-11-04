@@ -1390,21 +1390,6 @@ CATEGORIES:Gym class
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:d9350046b22dc1ab0e90@jd-bolton-classes
-DTSTAMP:20261030T060545Z
-LAST-MODIFIED:20261030T060545Z
-DTSTART:20261105T191500Z
-DTEND:20261105T200000Z
-SUMMARY:Yoga
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Yoga (45 min)\nInstructor: Rachael Crompton\nRoom: Studio\nNo b
- ooking needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bo
- lton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:62e5f44e2cb13bd927f6@jd-bolton-classes
 DTSTAMP:20261031T055932Z
 LAST-MODIFIED:20261031T055932Z
