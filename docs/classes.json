@@ -778,9 +778,9 @@
   "time": "18:30",
   "name": "Bootcamp",
   "minutes": 45,
-  "instructor": "Fitness Coach Bolton",
+  "instructor": "Vicky",
   "room": "Studio",
-  "stamp": "20261103T193941Z"
+  "stamp": "20261104T064455Z"
  },
  "fd09b6215538db8c6cd5@jd-bolton-classes": {
   "date": "2026-11-05",
@@ -952,5 +952,59 @@
   "instructor": "Fitness Coach Bolton",
   "room": "Studio",
   "stamp": "20261103T070139Z"
+ },
+ "cad30bd7a6f7da731a21@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "06:15",
+  "name": "Bootcamp",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
+ },
+ "e39b1982dc754dfaf452@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "09:30",
+  "name": "Les Mills BODYCOMBAT",
+  "minutes": 45,
+  "instructor": "Nikita Rosser",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
+ },
+ "8759ef79f1b00723f6b4@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "10:20",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Nikita Rosser",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
+ },
+ "92585ba00763ced762a4@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "17:15",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Michelle Sullivan",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
+ },
+ "8e07c3f7ebbb99798347@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "18:05",
+  "name": "Les Mills BODYCOMBAT",
+  "minutes": 50,
+  "instructor": "Michelle Sullivan",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
+ },
+ "5681599df0d8638171c4@jd-bolton-classes": {
+  "date": "2026-11-10",
+  "time": "19:05",
+  "name": "Yoga",
+  "minutes": 45,
+  "instructor": "Nigel Beard",
+  "room": "Studio",
+  "stamp": "20261104T064455Z"
  }
 }
