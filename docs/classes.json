@@ -1114,5 +1114,32 @@
   "instructor": "Michelle Sullivan",
   "room": "Studio",
   "stamp": "20261106T070431Z"
+ },
+ "e39d1936961cec4c90b3@jd-bolton-classes": {
+  "date": "2026-11-13",
+  "time": "06:15",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261107T061728Z"
+ },
+ "cccd5b685f4fdeba1efc@jd-bolton-classes": {
+  "date": "2026-11-13",
+  "time": "07:05",
+  "name": "JD BURN: HIIT",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261107T061728Z"
+ },
+ "141e6160b3f9c644c344@jd-bolton-classes": {
+  "date": "2026-11-13",
+  "time": "17:00",
+  "name": "JD BURN: STRENGTH",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261107T061728Z"
  }
 }
