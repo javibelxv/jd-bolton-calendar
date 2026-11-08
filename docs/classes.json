@@ -1141,5 +1141,32 @@
   "instructor": "Fitness Coach Bolton",
   "room": "Studio",
   "stamp": "20261107T061728Z"
+ },
+ "65cdad726c730b4da491@jd-bolton-classes": {
+  "date": "2026-11-14",
+  "time": "08:00",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261108T062302Z"
+ },
+ "56cba49a1cdf6f7ad131@jd-bolton-classes": {
+  "date": "2026-11-14",
+  "time": "08:30",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261108T062302Z"
+ },
+ "67e71408dbcd3daf6415@jd-bolton-classes": {
+  "date": "2026-11-14",
+  "time": "09:00",
+  "name": "Bootcamp",
+  "minutes": 45,
+  "instructor": "Vicky",
+  "room": "Studio",
+  "stamp": "20261108T062302Z"
  }
 }
