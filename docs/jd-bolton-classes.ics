@@ -10,51 +10,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f57cbdf3b7fd97a86786@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261017T070000Z
-DTEND:20261017T073000Z
-SUMMARY:Spin
-LOCATION:JD Gyms Bolton – Spin Studio
-DESCRIPTION:Spin (30 min)\nInstructor: Vicky\nRoom: Spin Studio\nNo booking
-  needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton B
- L2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:0baa7faa0b34ad2c4037@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261017T073000Z
-DTEND:20261017T080000Z
-SUMMARY:Spin
-LOCATION:JD Gyms Bolton – Spin Studio
-DESCRIPTION:Spin (30 min)\nInstructor: Vicky\nRoom: Spin Studio\nNo booking
-  needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton B
- L2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:a2339b6c09a60e92629a@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261017T080000Z
-DTEND:20261017T084500Z
-SUMMARY:HIIT
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:HIIT (45 min)\nInstructor: Vicky\nRoom: Studio\nNo booking need
- ed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton BL2 1H
- A\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:bf446a52b8933b082a08@jd-bolton-classes
 DTSTAMP:20261017T091719Z
 LAST-MODIFIED:20261017T091719Z
@@ -2390,6 +2345,51 @@ LOCATION:JD Gyms Bolton – Studio
 DESCRIPTION:JD BURN: STRENGTH (45 min)\nInstructor: Fitness Coach Bolton\nR
  oom: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, M
  anchester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c165640661614a5fd97a@jd-bolton-classes
+DTSTAMP:20261115T065204Z
+LAST-MODIFIED:20261115T065204Z
+DTSTART:20261121T080000Z
+DTEND:20261121T083000Z
+SUMMARY:Spin
+LOCATION:JD Gyms Bolton – Spin Studio
+DESCRIPTION:Spin (30 min)\nInstructor: Vicky\nRoom: Spin Studio\nNo booking
+  needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton B
+ L2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d68f094a2ac7b9064dbe@jd-bolton-classes
+DTSTAMP:20261115T065204Z
+LAST-MODIFIED:20261115T065204Z
+DTSTART:20261121T083000Z
+DTEND:20261121T090000Z
+SUMMARY:Spin
+LOCATION:JD Gyms Bolton – Spin Studio
+DESCRIPTION:Spin (30 min)\nInstructor: Vicky\nRoom: Spin Studio\nNo booking
+  needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton B
+ L2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63c068a920de7fef6ec7@jd-bolton-classes
+DTSTAMP:20261115T065204Z
+LAST-MODIFIED:20261115T065204Z
+DTSTART:20261121T090000Z
+DTEND:20261121T094500Z
+SUMMARY:Bootcamp
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:Bootcamp (45 min)\nInstructor: Vicky\nRoom: Studio\nNo booking 
+ needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton BL
+ 2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
 URL:https://www.jdgyms.co.uk/gym/bolton/
 CATEGORIES:Gym class
 TRANSP:TRANSPARENT

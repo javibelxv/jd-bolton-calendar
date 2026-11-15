@@ -1,31 +1,4 @@
 {
- "f57cbdf3b7fd97a86786@jd-bolton-classes": {
-  "date": "2026-10-17",
-  "time": "08:00",
-  "name": "Spin",
-  "minutes": 30,
-  "instructor": "Vicky",
-  "room": "Spin Studio",
-  "stamp": "20261017T091719Z"
- },
- "0baa7faa0b34ad2c4037@jd-bolton-classes": {
-  "date": "2026-10-17",
-  "time": "08:30",
-  "name": "Spin",
-  "minutes": 30,
-  "instructor": "Vicky",
-  "room": "Spin Studio",
-  "stamp": "20261017T091719Z"
- },
- "a2339b6c09a60e92629a@jd-bolton-classes": {
-  "date": "2026-10-17",
-  "time": "09:00",
-  "name": "HIIT",
-  "minutes": 45,
-  "instructor": "Vicky",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
  "bf446a52b8933b082a08@jd-bolton-classes": {
   "date": "2026-10-19",
   "time": "06:15",
@@ -1429,5 +1402,32 @@
   "instructor": "Fitness Coach Bolton",
   "room": "Studio",
   "stamp": "20261114T064742Z"
+ },
+ "c165640661614a5fd97a@jd-bolton-classes": {
+  "date": "2026-11-21",
+  "time": "08:00",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261115T065204Z"
+ },
+ "d68f094a2ac7b9064dbe@jd-bolton-classes": {
+  "date": "2026-11-21",
+  "time": "08:30",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261115T065204Z"
+ },
+ "63c068a920de7fef6ec7@jd-bolton-classes": {
+  "date": "2026-11-21",
+  "time": "09:00",
+  "name": "Bootcamp",
+  "minutes": 45,
+  "instructor": "Vicky",
+  "room": "Studio",
+  "stamp": "20261115T065204Z"
  }
 }
