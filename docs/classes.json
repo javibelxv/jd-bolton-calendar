@@ -1,76 +1,4 @@
 {
- "18ecc363d7688d25e125@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "06:00",
-  "name": "HIIT Step",
-  "minutes": 30,
-  "instructor": "Sam Bradley",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "8805c5108d45e27ef6d5@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "06:30",
-  "name": "Tone",
-  "minutes": 30,
-  "instructor": "Sam Bradley",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "3b8193986acba45ca716@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "07:20",
-  "name": "JD BURN: ATHLETIC",
-  "minutes": 45,
-  "instructor": "Fitness Coach Bolton",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "98fe7fc3ca036fbb64f2@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "09:30",
-  "name": "Les Mills BODYCOMBAT",
-  "minutes": 45,
-  "instructor": "Nazmin Patel",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "b84c87c0393baaebb2d6@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "17:00",
-  "name": "Abs",
-  "minutes": 30,
-  "instructor": "Vicky",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "61832e8dd5d6ff86f1cc@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "17:30",
-  "name": "Spin",
-  "minutes": 30,
-  "instructor": "Vicky",
-  "room": "Spin Studio",
-  "stamp": "20261017T091719Z"
- },
- "cf3fc58d17f128abc6d8@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "18:00",
-  "name": "Spin",
-  "minutes": 30,
-  "instructor": "Vicky",
-  "room": "Spin Studio",
-  "stamp": "20261017T091719Z"
- },
- "0c83b61b8b014468c533@jd-bolton-classes": {
-  "date": "2026-10-21",
-  "time": "18:30",
-  "name": "HIIT",
-  "minutes": 45,
-  "instructor": "Vicky",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
  "eda34cd351163d1158d1@jd-bolton-classes": {
   "date": "2026-10-22",
   "time": "06:30",
@@ -1429,5 +1357,77 @@
   "instructor": "Nigel Beard",
   "room": "Studio",
   "stamp": "20261118T074511Z"
+ },
+ "1884dfd9ebfde2ef8585@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "06:00",
+  "name": "HIIT Step",
+  "minutes": 30,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "11f20317782eed80855b@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "06:30",
+  "name": "Tone",
+  "minutes": 30,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "4f48e318f40eef478424@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "07:20",
+  "name": "JD BURN: ATHLETIC",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "fea7f913055a04230261@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "09:30",
+  "name": "Les Mills BODYCOMBAT",
+  "minutes": 45,
+  "instructor": "Nazmin Patel",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "b518b3adbeadbe434a80@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "17:00",
+  "name": "Abs",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "83135563971199877a41@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "17:30",
+  "name": "Bootcamp",
+  "minutes": 45,
+  "instructor": "Vicky",
+  "room": "Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "4754bdd19987399bc50a@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "18:15",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261119T074120Z"
+ },
+ "b8f324c77bf7b654f8c1@jd-bolton-classes": {
+  "date": "2026-11-25",
+  "time": "18:45",
+  "name": "Spin",
+  "minutes": 30,
+  "instructor": "Vicky",
+  "room": "Spin Studio",
+  "stamp": "20261119T074120Z"
  }
 }
