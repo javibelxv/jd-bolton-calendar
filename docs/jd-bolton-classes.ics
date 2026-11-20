@@ -10,96 +10,6 @@ X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:eda34cd351163d1158d1@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T053000Z
-DTEND:20261022T061500Z
-SUMMARY:JD BURN: STRENGTH
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:JD BURN: STRENGTH (45 min)\nInstructor: Fitness Coach Bolton\nR
- oom: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, M
- anchester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7697366fdaa221fe702c@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T083000Z
-DTEND:20261022T091500Z
-SUMMARY:Les Mills BODYCOMBAT
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Les Mills BODYCOMBAT (45 min)\nInstructor: Nikita Rosser\nRoom:
-  Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Manch
- ester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:7eaca4879e7bc7b4720c@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T092000Z
-DTEND:20261022T100500Z
-SUMMARY:Les Mills BODYPUMP
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Les Mills BODYPUMP (45 min)\nInstructor: Nikita Rosser\nRoom: S
- tudio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Manches
- ter Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e508f800f7222fd774e2@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T163000Z
-DTEND:20261022T171500Z
-SUMMARY:Les Mills BODYPUMP
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Les Mills BODYPUMP (45 min)\nInstructor: Michelle Sullivan\nRoo
- m: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Man
- chester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:aee1bda6869034c87992@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T172000Z
-DTEND:20261022T180500Z
-SUMMARY:Les Mills BODYCOMBAT
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Les Mills BODYCOMBAT (45 min)\nInstructor: Michelle Sullivan\nR
- oom: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, M
- anchester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:410df3d0ef7680c9ff38@jd-bolton-classes
-DTSTAMP:20261017T091719Z
-LAST-MODIFIED:20261017T091719Z
-DTSTART:20261022T181500Z
-DTEND:20261022T190000Z
-SUMMARY:Yoga
-LOCATION:JD Gyms Bolton – Studio
-DESCRIPTION:Yoga (45 min)\nInstructor: Rachael Crompton\nRoom: Studio\nNo b
- ooking needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bo
- lton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
-URL:https://www.jdgyms.co.uk/gym/bolton/
-CATEGORIES:Gym class
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:74b0bf1985e1c675cd50@jd-bolton-classes
 DTSTAMP:20261017T091719Z
 LAST-MODIFIED:20261017T091719Z
@@ -2390,6 +2300,81 @@ LOCATION:JD Gyms Bolton – Spin Studio
 DESCRIPTION:Spin (30 min)\nInstructor: Vicky\nRoom: Spin Studio\nNo booking
   needed - just turn up.\nUnit 1\, Morston Point\, Manchester Rd\, Bolton B
  L2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb4aaa397cc0037fd8d@jd-bolton-classes
+DTSTAMP:20261120T073257Z
+LAST-MODIFIED:20261120T073257Z
+DTSTART:20261126T063000Z
+DTEND:20261126T071500Z
+SUMMARY:JD BURN: STRENGTH
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:JD BURN: STRENGTH (45 min)\nInstructor: Fitness Coach Bolton\nR
+ oom: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, M
+ anchester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c51a9828797a8b6e7df@jd-bolton-classes
+DTSTAMP:20261120T073257Z
+LAST-MODIFIED:20261120T073257Z
+DTSTART:20261126T093000Z
+DTEND:20261126T101500Z
+SUMMARY:Les Mills BODYCOMBAT
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:Les Mills BODYCOMBAT (45 min)\nInstructor: Nikita Rosser\nRoom:
+  Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Manch
+ ester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:705011cad22902f9e1e1@jd-bolton-classes
+DTSTAMP:20261120T073257Z
+LAST-MODIFIED:20261120T073257Z
+DTSTART:20261126T102000Z
+DTEND:20261126T110500Z
+SUMMARY:Les Mills BODYPUMP
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:Les Mills BODYPUMP (45 min)\nInstructor: Nikita Rosser\nRoom: S
+ tudio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Manches
+ ter Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4d02a0f10798b821455f@jd-bolton-classes
+DTSTAMP:20261120T073257Z
+LAST-MODIFIED:20261120T073257Z
+DTSTART:20261126T173000Z
+DTEND:20261126T181500Z
+SUMMARY:Les Mills BODYPUMP
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:Les Mills BODYPUMP (45 min)\nInstructor: Michelle Sullivan\nRoo
+ m: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, Man
+ chester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
+URL:https://www.jdgyms.co.uk/gym/bolton/
+CATEGORIES:Gym class
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73cdcd3f539cb5bad882@jd-bolton-classes
+DTSTAMP:20261120T073257Z
+LAST-MODIFIED:20261120T073257Z
+DTSTART:20261126T182000Z
+DTEND:20261126T190500Z
+SUMMARY:Les Mills BODYCOMBAT
+LOCATION:JD Gyms Bolton – Studio
+DESCRIPTION:Les Mills BODYCOMBAT (45 min)\nInstructor: Michelle Sullivan\nR
+ oom: Studio\nNo booking needed - just turn up.\nUnit 1\, Morston Point\, M
+ anchester Rd\, Bolton BL2 1HA\nhttps://www.jdgyms.co.uk/gym/bolton/
 URL:https://www.jdgyms.co.uk/gym/bolton/
 CATEGORIES:Gym class
 TRANSP:TRANSPARENT
