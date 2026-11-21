@@ -1,31 +1,4 @@
 {
- "74b0bf1985e1c675cd50@jd-bolton-classes": {
-  "date": "2026-10-23",
-  "time": "06:15",
-  "name": "Les Mills BODYPUMP",
-  "minutes": 45,
-  "instructor": "Sam Bradley",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "43c6a871883f6e2d8d72@jd-bolton-classes": {
-  "date": "2026-10-23",
-  "time": "07:05",
-  "name": "JD BURN: HIIT",
-  "minutes": 45,
-  "instructor": "Fitness Coach Bolton",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
- "e9b3eb4c729e61736f32@jd-bolton-classes": {
-  "date": "2026-10-23",
-  "time": "17:00",
-  "name": "JD BURN: STRENGTH",
-  "minutes": 45,
-  "instructor": "Fitness Coach Bolton",
-  "room": "Studio",
-  "stamp": "20261017T091719Z"
- },
  "50388b5ac201682cd0f0@jd-bolton-classes": {
   "date": "2026-10-24",
   "time": "08:00",
@@ -1420,5 +1393,32 @@
   "instructor": "Michelle Sullivan",
   "room": "Studio",
   "stamp": "20261120T073257Z"
+ },
+ "e30e6a2cb0ffbcf05c6a@jd-bolton-classes": {
+  "date": "2026-11-27",
+  "time": "06:15",
+  "name": "Les Mills BODYPUMP",
+  "minutes": 45,
+  "instructor": "Sam Bradley",
+  "room": "Studio",
+  "stamp": "20261121T072839Z"
+ },
+ "6012fae35cb0ba7b9a81@jd-bolton-classes": {
+  "date": "2026-11-27",
+  "time": "07:05",
+  "name": "JD BURN: HIIT",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261121T072839Z"
+ },
+ "fa5fed4e02b14cb92cd4@jd-bolton-classes": {
+  "date": "2026-11-27",
+  "time": "17:00",
+  "name": "JD BURN: STRENGTH",
+  "minutes": 45,
+  "instructor": "Fitness Coach Bolton",
+  "room": "Studio",
+  "stamp": "20261121T072839Z"
  }
 }
